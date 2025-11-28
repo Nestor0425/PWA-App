@@ -15,14 +15,14 @@ function App() {
           </a>
           <h1>PWA Demo Application</h1>
         </div>
-        <p>This is a demo PWA using React, TypeScript, Node.js, Postgresql, and Scss/Sass/Less.<br /><a href="https://github.com/scottgriv/PWA-Demo-App" target="_blank" rel="noreferrer">Visit the repository on GitHub</a> for more information on how to build your own PWA website.</p>
+        <p>This is a demo PWA using React, TypeScript, Node.js, Postgresql, and Scss/Sass/Less.<br /><a href="https://github.com/Nestor0425/PWA-App.git" target="_blank" rel="noreferrer">Visit the repository on GitHub</a> for more information on how to build your own PWA website.</p>
       </div>
       <div className="UsersTable">
         <UsersTable useCsv={useCsv} /> {}
       </div>
     </div>
     <footer>
-      <a href="https://github.com/scottgriv/PWA-Demo-App" target="_blank" rel="noreferrer">Check out this Project on GitHub! <i className="fa-brands fa-github fa-bounce"></i></a>
+      <a href="https://github.com/Nestor0425/PWA-App.git" target="_blank" rel="noreferrer">Check out this Project on GitHub! <i className="fa-brands fa-github fa-bounce"></i></a>
     </footer>
     </>
   );
